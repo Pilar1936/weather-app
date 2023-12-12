@@ -16,4 +16,4 @@ THEN I am again presented with current and future conditions for that city
 ## screenshot
 
 
-<img src="/images/scrhoo.PNG">
+<img src="./images/scrhoo.PNG">
